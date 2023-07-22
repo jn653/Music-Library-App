@@ -1,0 +1,14 @@
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\bin\x64\Debug\Database1.accdb
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.musicCollectionForm.resources
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.addSongForm.resources
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.modifySongForm.resources
+F:\CIS component based software desgin\lab04MusicLibrary\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.deleteSongForm.resources
